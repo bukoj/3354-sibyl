@@ -1,0 +1,10 @@
+﻿  main.cpp
+  server.cpp
+D:\Undergraduate\Junior\SE3354 Software Engineering\Group Project\messaging\server\server.cpp(12,38): warning C4309: “初始化”: 截断常量值
+D:\Undergraduate\Junior\SE3354 Software Engineering\Group Project\messaging\server\server.cpp(12,68): warning C4309: “初始化”: 截断常量值
+D:\Undergraduate\Junior\SE3354 Software Engineering\Group Project\messaging\server\server.cpp(17,26): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Undergraduate\Junior\SE3354 Software Engineering\Group Project\messaging\server\server.cpp(48,26): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Undergraduate\Junior\SE3354 Software Engineering\Group Project\messaging\server\server.cpp(60,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  winsock_init.cpp
+  正在生成代码...
+  server.vcxproj -> D:\Undergraduate\Junior\SE3354 Software Engineering\Group Project\messaging\test\Server\Debug\Server.lib
